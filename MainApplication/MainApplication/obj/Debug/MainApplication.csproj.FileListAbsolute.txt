@@ -1,0 +1,30 @@
+E:\Projects\C#\YT\011\MainApplication\MainApplication\bin\Debug\MainApplication.exe.config
+E:\Projects\C#\YT\011\MainApplication\MainApplication\bin\Debug\MainApplication.exe
+E:\Projects\C#\YT\011\MainApplication\MainApplication\bin\Debug\MainApplication.pdb
+E:\Projects\C#\YT\011\MainApplication\MainApplication\obj\Debug\MainApplication.csprojResolveAssemblyReference.cache
+E:\Projects\C#\YT\011\MainApplication\MainApplication\obj\Debug\MainApplication.ItemForm.resources
+E:\Projects\C#\YT\011\MainApplication\MainApplication\obj\Debug\MainApplication.Properties.Resources.resources
+E:\Projects\C#\YT\011\MainApplication\MainApplication\obj\Debug\MainApplication.csproj.GenerateResource.Cache
+E:\Projects\C#\YT\011\MainApplication\MainApplication\obj\Debug\MainApplication.exe
+E:\Projects\C#\YT\011\MainApplication\MainApplication\obj\Debug\MainApplication.pdb
+E:\Projects\C#\YT\012\MainApplication\MainApplication\bin\Debug\MainApplication.exe.config
+E:\Projects\C#\YT\012\MainApplication\MainApplication\obj\Debug\MainApplication.exe
+E:\Projects\C#\YT\012\MainApplication\MainApplication\obj\Debug\MainApplication.pdb
+E:\Projects\C#\YT\012\MainApplication\MainApplication\bin\Debug\MainApplication.exe
+E:\Projects\C#\YT\012\MainApplication\MainApplication\bin\Debug\MainApplication.pdb
+E:\Projects\C#\YT\012\MainApplication\MainApplication\obj\Debug\MainApplication.csprojResolveAssemblyReference.cache
+E:\Projects\C#\YT\012\MainApplication\MainApplication\obj\Debug\MainApplication.ItemForm.resources
+E:\Projects\C#\YT\012\MainApplication\MainApplication\obj\Debug\MainApplication.Properties.Resources.resources
+E:\Projects\C#\YT\012\MainApplication\MainApplication\obj\Debug\MainApplication.csproj.GenerateResource.Cache
+E:\Projects\C#\YT\012\MainApplication\MainApplication\obj\Debug\MainApplication.CustomMessageBox.resources
+D:\Projects\C#\YT\SolveEverything.exe\012 - Custom MessageBox\MainApplication\MainApplication\bin\Debug\MainApplication.exe.config
+D:\Projects\C#\YT\SolveEverything.exe\012 - Custom MessageBox\MainApplication\MainApplication\bin\Debug\MainApplication.exe
+D:\Projects\C#\YT\SolveEverything.exe\012 - Custom MessageBox\MainApplication\MainApplication\bin\Debug\MainApplication.pdb
+D:\Projects\C#\YT\SolveEverything.exe\012 - Custom MessageBox\MainApplication\MainApplication\obj\Debug\MainApplication.csprojAssemblyReference.cache
+D:\Projects\C#\YT\SolveEverything.exe\012 - Custom MessageBox\MainApplication\MainApplication\obj\Debug\MainApplication.CustomMessageBox.resources
+D:\Projects\C#\YT\SolveEverything.exe\012 - Custom MessageBox\MainApplication\MainApplication\obj\Debug\MainApplication.ItemForm.resources
+D:\Projects\C#\YT\SolveEverything.exe\012 - Custom MessageBox\MainApplication\MainApplication\obj\Debug\MainApplication.Properties.Resources.resources
+D:\Projects\C#\YT\SolveEverything.exe\012 - Custom MessageBox\MainApplication\MainApplication\obj\Debug\MainApplication.csproj.GenerateResource.cache
+D:\Projects\C#\YT\SolveEverything.exe\012 - Custom MessageBox\MainApplication\MainApplication\obj\Debug\MainApplication.csproj.CoreCompileInputs.cache
+D:\Projects\C#\YT\SolveEverything.exe\012 - Custom MessageBox\MainApplication\MainApplication\obj\Debug\MainApplication.exe
+D:\Projects\C#\YT\SolveEverything.exe\012 - Custom MessageBox\MainApplication\MainApplication\obj\Debug\MainApplication.pdb
